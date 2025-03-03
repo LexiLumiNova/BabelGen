@@ -20,18 +20,18 @@ input[type="text"] {
     border: 1px solid #ccc;
 }
 
+# Updated CSS
 select {
-    width: 25%;
-    height: 40px;
+    width: 50%; /* Increased width */
+    height: 40px; /* Increased height */
     margin: 10px 0;
     padding: 10px;
     border: 1px solid #ccc;
-    font-size: 16px; /*
-    Increased font size*/
+    font-size: 16px; /* Increased font size */
 }
 
 button {
-    width: 25%;
+    width: 20%;
     height: 40px;
     margin: 10px 0;
     padding: 10px;
